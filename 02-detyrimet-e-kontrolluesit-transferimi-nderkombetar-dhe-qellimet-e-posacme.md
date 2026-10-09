@@ -380,9 +380,9 @@ Pika 2 kërkon aftësi profesionale të certifikuara dhe njohuri të mira të li
 >
 > ë) masat dhe procedurat sipas neneve 22 e 23, si dhe masat për të garantuar sigurinë e përpunimit, sipas nenit 28 të këtij ligji;
 >
-> f) njoftimin e Komisionerit dhe të subjekteve të të dhënave për cenimin e të dhënave personale; ose
+> f) njoftimin e Komisionerit dhe të subjekteve të të dhënave për cenimin e të dhënave personale;
 >
-> g) transferimin e të dhënave personale në vendet e huaja ose në organizatat ndërkombëtare;
+> g) transferimin e të dhënave personale në vendet e huaja ose në organizatat ndërkombëtare; ose
 >
 > gj) zgjidhjen në rrugë jashtëgjyqësore të mosmarrëveshjeve ndërmjet kontrolluesve dhe subjekteve të të dhënave, lidhur me përpunimin pa cenuar të drejtat e subjekteve të të dhënave për të paraqitur ankesë te Komisioneri, në përputhje me pjesën V të këtij ligji.
 >

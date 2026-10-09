@@ -25,8 +25,8 @@ Ligji ndahet në gjashtë pjesë: dispozita të përgjithshme (pjesa I), përpun
 
 ## Metoda
 
-- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i konsoliduar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë, ndërsa numrat e faqeve janë hequr.
-- Shënimi zyrtar i titullit të ligjit për përafrimin me aktet e BE-së, i cili në tekstin burimor ndodhet brenda nenit 4 për shkak të faqosjes, është dhënë nën tekstin e nenit 1.
+- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i konsoliduar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë.
+- Shënimi zyrtar i titullit të ligjit për përafrimin me aktet e BE-së, i cili në tekstin burimor është fusnotë e faqes së parë, është dhënë nën tekstin e nenit 1.
 - Komentari është hartuar **vetëm mbi bazën e materialeve lokale** (teksti zyrtar i aktit dhe metadatat e tij), pa përdorur baza të dhënash juridike komerciale. **Praktika gjyqësore nuk është pjesë e këtij versioni**; ajo do të shtohet në një fazë të veçantë. Aktet e tjera ligjore përmenden vetëm kur u referohet vetë teksti i ligjit.
 - Aty ku teksti i ligjit përmban referenca të brendshme që nuk përputhen me përmbajtjen e dispozitës së referuar (p.sh. pika 8 e nenit 31, pika 2 e nenit 51, shkronja “g” e pikës 2 të nenit 83, pika 1 e nenit 74), komentari e shënon këtë dhe propozon një lexim sistematik; ky lexim është mendim i autorit dhe jo interpretim zyrtar.
 - Aktet nënligjore të nxjerra në zbatim të ligjit (vendime të Këshillit të Ministrave, udhëzime dhe vendime të Komisionerit) nuk janë objekt i komentarit; ato përmenden vetëm aty ku ligji u referohet.
